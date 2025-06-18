@@ -2,6 +2,7 @@
 Utilities to use within container image development. Each folder has its own description at README.md explaining the concept and usage.
 
 #### `Customize and use it as you want.`
+#### `Feel free to contribute`
 
 ##### PS: each project can have it's own README.md explaining it's code/workflow.
 
