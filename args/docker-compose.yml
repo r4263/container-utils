@@ -1,0 +1,4 @@
+services:
+  app:
+    build: .
+    command: ["--flag", "--option_value=http://example.com", "--separate_argument", "separate_value"]
